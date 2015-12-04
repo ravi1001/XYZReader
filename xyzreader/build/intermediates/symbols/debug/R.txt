@@ -560,7 +560,7 @@ int drawable add_fab_background 0x7f02003b
 int drawable empty_detail 0x7f02003c
 int drawable fab_background 0x7f02003d
 int drawable ic_arrow_back 0x7f02003e
-int drawable ic_share 0x7f02003f
+int drawable ic_share_white_48dp 0x7f02003f
 int drawable logo 0x7f020040
 int drawable notification_template_icon_bg 0x7f020045
 int drawable padded_divider 0x7f020041

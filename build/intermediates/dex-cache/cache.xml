@@ -44,13 +44,6 @@
         <dex dex="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\pre-dexed\debug\classes-70825f79d771b0cfaa4541aff772571f1b1a47b2.jar" />
     </item>
     <item
-        jar="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\pre-dexed\debug\classes-a1400a528fd5f5bb02c6d3b06c99df2ca490de98.jar" />
-    </item>
-    <item
         jar="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -72,13 +65,6 @@
         <dex dex="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-5932bde441d2772b5f85bb7e63c015d70bef98f9.jar" />
     </item>
     <item
-        jar="C:\Users\Ravi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
-        <dex dex="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\pre-dexed\debug\okhttp-2.6.0-540b72c95779d8802e04a47451a7eb7704de05d1.jar" />
-    </item>
-    <item
         jar="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\libs\volley.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -91,6 +77,20 @@
         revision="22.0.1"
         sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
         <dex dex="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-0c012458aee693e4c24403fd46ec3d799f211410.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\pre-dexed\debug\classes-a1400a528fd5f5bb02c6d3b06c99df2ca490de98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ravi\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.6.0\212387a39088ecd3daff8e3bfc3bdc4123e33c67\okhttp-2.6.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="C:\Users\Ravi\AndroidStudioProjects\XYZReader\xyzreader\build\intermediates\pre-dexed\debug\okhttp-2.6.0-540b72c95779d8802e04a47451a7eb7704de05d1.jar" />
     </item>
 
 </items>

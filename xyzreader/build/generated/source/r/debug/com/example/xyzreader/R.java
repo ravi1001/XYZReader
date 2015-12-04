@@ -2178,7 +2178,7 @@ containing a value of this type.
         public static final int empty_detail=0x7f02003c;
         public static final int fab_background=0x7f02003d;
         public static final int ic_arrow_back=0x7f02003e;
-        public static final int ic_share=0x7f02003f;
+        public static final int ic_share_white_48dp=0x7f02003f;
         public static final int logo=0x7f020040;
         public static final int notification_template_icon_bg=0x7f020045;
         public static final int padded_divider=0x7f020041;

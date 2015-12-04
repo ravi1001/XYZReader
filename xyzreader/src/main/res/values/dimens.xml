@@ -6,7 +6,7 @@
 
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
-    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
 
     <dimen name="screen_edge">16dp</dimen>
     <dimen name="screen_edge_content">72dp</dimen>

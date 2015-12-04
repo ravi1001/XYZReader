@@ -281,7 +281,7 @@
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="fab_elevation">2dp</dimen>
-    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values/values.xml -->
     <eat-comment/>
