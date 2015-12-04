@@ -8,4 +8,13 @@
     <dimen name="fab_press_translation_z">6dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
 
+    <dimen name="screen_edge">16dp</dimen>
+    <dimen name="screen_edge_content">72dp</dimen>
+    <dimen name="appbar_height">136dp</dimen>
+    <dimen name="recycler_margin">8dp</dimen>
+    <dimen name="cardview_margin">4dp</dimen>
+    <dimen name="network_imageview_width">120dp</dimen>
+    <dimen name="network_imageview_height">120dp</dimen>
+    <dimen name="article_list_padding">8dp</dimen>
+
 </resources>

@@ -10,6 +10,11 @@
     <dimen name="abc_config_prefDialogWidth">580dp</dimen>
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values-sw600dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="appbar_height">152dp</dimen>
+    <dimen name="article_list_padding">16dp</dimen>
+    <dimen name="cardview_margin">8dp</dimen>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values-sw600dp/macro_layout.xml -->
     <eat-comment/>
     <dimen name="detail_body_bottom_margin">96dp</dimen>
@@ -27,6 +32,11 @@
     <eat-comment/>
     <dimen name="detail_title_text_size">42sp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+    <dimen name="network_imageview_height">144dp</dimen>
+    <dimen name="network_imageview_width">144dp</dimen>
+    <dimen name="recycler_margin">16dp</dimen>
+    <dimen name="screen_edge">24dp</dimen>
+    <dimen name="screen_edge_content">80dp</dimen>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values-sw600dp/values-sw600dp.xml -->
     <eat-comment/>
     <dimen name="snackbar_action_inline_max_width">0dp</dimen>
@@ -42,6 +52,9 @@
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-sw600dp/values-sw600dp.xml -->
     <eat-comment/>
     <integer name="abc_max_action_buttons">5</integer>
+    <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values-sw600dp/macro_layout.xml -->
+    <eat-comment/>
+    <integer name="list_column_count">4</integer>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values-sw600dp/values-sw600dp.xml -->
     <eat-comment/>
     <integer name="snackbar_text_max_lines">1</integer>
