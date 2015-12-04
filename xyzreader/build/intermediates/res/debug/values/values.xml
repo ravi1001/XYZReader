@@ -24,13 +24,6 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values/colors.xml -->
-    <eat-comment/>
-    <color name="amber_300">#FFD54F</color>
-    <color name="amber_500">#FFC107</color>
-    <color name="amber_700">#FFA000</color>
-    <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="background_floating_material_dark">#ff424242</color>
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
@@ -54,6 +47,12 @@
     <color name="cardview_light_background">#FFFAFAFA</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
+    <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="colorAccent">#6200EA</color>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimaryLight">#E57373</color>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
@@ -76,11 +75,6 @@
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
-    <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values/colors.xml -->
-    <eat-comment/>
-    <color name="indigo_a700">#304FFE</color>
-    <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
-    <eat-comment/>
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values/colors.xml -->
@@ -414,9 +408,9 @@
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:colorPrimary">@color/amber_500</item>
-        <item name="android:colorPrimaryDark">@color/amber_700</item>
-        <item name="android:colorAccent">@color/indigo_a700</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
     </style>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
