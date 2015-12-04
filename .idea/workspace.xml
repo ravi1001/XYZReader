@@ -36,40 +36,7 @@
     <favorites_list name="XYZReader" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ArticleDetailFragment.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.62234044">
-              <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
-              <folding>
-                <element signature="docComment;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="docComment;method#ArticleDetailFragment#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#ArticleDetailFragment#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#newInstance#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#onCreate#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#onActivityCreated#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="e#3122#3210#0" expanded="false" />
-                <element signature="e#4897#5287#0" expanded="true" />
-                <element signature="e#5228#5260#0" expanded="true" />
-                <element signature="e#5286#5287#0" expanded="true" />
-                <element signature="method#updateStatusBar#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#progress#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#constrain#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="class#7896:8842" expanded="false" />
-                <element signature="method#onResponse#0;class#7896:8842" expanded="false" />
-                <element signature="e#8425#8496#0" expanded="false" />
-                <element signature="method#onErrorResponse#0;class#7896:8842" expanded="false" />
-                <element signature="method#onCreateLoader#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#onLoadFinished#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#onLoaderReset#0;class#ArticleDetailFragment#0" expanded="false" />
-                <element signature="method#getUpButtonFloor#0;class#ArticleDetailFragment#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -1307,21 +1274,22 @@
         <option value="$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/remote/RemoteEndpointUtil.java" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/xyzreader/build.gradle" />
-        <option value="$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values-sw600dp/dimens.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values-land/macro_layout.xml" />
-        <option value="$PROJECT_DIR$/xyzreader/src/main/res/layout/list_item_article.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values-w800dp/macro_layout.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values-sw600dp-land/macro_layout.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/layout/activity_article_detail.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values/dimens.xml" />
-        <option value="$PROJECT_DIR$/xyzreader/src/main/res/layout/fragment_article_detail.xml" />
-        <option value="$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values/macro_layout.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values-sw600dp/macro_layout.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/layout/activity_article_list.xml" />
         <option value="$PROJECT_DIR$/xyzreader/src/main/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java" />
+        <option value="$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java" />
+        <option value="$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java" />
+        <option value="$PROJECT_DIR$/xyzreader/src/main/res/layout/fragment_article_detail.xml" />
+        <option value="$PROJECT_DIR$/xyzreader/src/main/res/layout/list_item_article.xml" />
       </list>
     </option>
   </component>
@@ -1473,24 +1441,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="XYZReader-XYZReader" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1747,7 +1697,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1762,9 +1712,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.63202727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.63202727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32753405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32753405" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.66950595" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1968,48 +1918,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57781756">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="docComment;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="class#2163:2847" expanded="false" />
-            <element signature="method#onPageScrollStateChanged#0;class#2163:2847" expanded="false" />
-            <element signature="method#onPageSelected#0;class#2163:2847" expanded="false" />
-            <element signature="method#onCreateLoader#0;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="method#onLoadFinished#0;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="method#onLoaderReset#0;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="method#onUpButtonFloorChanged#0;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="method#updateUpButtonPosition#0;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="class#MyPagerAdapter#0;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="method#setPrimaryItem#0;class#MyPagerAdapter#0;class#ArticleDetailActivity#0" expanded="false" />
-            <element signature="method#getItem#0;class#MyPagerAdapter#0;class#ArticleDetailActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25223613">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="docComment;class#ArticleListActivity#0" expanded="false" />
-            <element signature="method#onStart#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="method#onStop#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="method#onCreateLoader#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="method#onLoadFinished#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="class#Adapter#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="method#getItemId#0;class#Adapter#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="method#onCreateViewHolder#0;class#Adapter#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="method#onBindViewHolder#0;class#Adapter#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="class#ViewHolder#0;class#ArticleListActivity#0" expanded="false" />
-            <element signature="method#ViewHolder#0;class#ViewHolder#0;class#ArticleListActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/drawable/photo_background_protection.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2088,45 +1996,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6690519">
-          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/layout/activity_article_list.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38490567">
-          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
-          <folding>
-            <element signature="e#292#1100#0" expanded="false" />
-            <element signature="e#553#1047#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/layout/list_item_article.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="94" selection-start-line="0" selection-start-column="94" selection-end-line="0" selection-end-column="94" />
-          <folding>
-            <element signature="e#0#2054#0" expanded="false" />
-            <element signature="e#398#2015#0" expanded="false" />
-            <element signature="e#605#877#0" expanded="false" />
-            <element signature="e#887#1463#0" expanded="false" />
-            <element signature="e#1473#1994#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/layout/activity_article_detail.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23018868">
@@ -2136,6 +2005,86 @@
       </provider>
       <provider editor-type-id="android-designer">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5205724">
+          <caret line="173" column="29" selection-start-line="173" selection-start-column="29" selection-end-line="173" selection-end-column="29" />
+          <folding>
+            <element signature="docComment;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="docComment;method#ArticleDetailFragment#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#ArticleDetailFragment#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#newInstance#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#onCreate#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#onActivityCreated#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="e#3122#3210#0" expanded="false" />
+            <element signature="method#onCreateView#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#updateStatusBar#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#progress#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#constrain#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#bindViews#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="class#7787:8733" expanded="false" />
+            <element signature="method#onResponse#0;class#7787:8733" expanded="false" />
+            <element signature="e#8316#8387#0" expanded="false" />
+            <element signature="method#onErrorResponse#0;class#7787:8733" expanded="false" />
+            <element signature="method#onCreateLoader#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#onLoadFinished#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#onLoaderReset#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="method#getUpButtonFloor#0;class#ArticleDetailFragment#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15205725">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+          <folding>
+            <element signature="docComment;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="class#2212:2896" expanded="false" />
+            <element signature="method#onPageScrollStateChanged#0;class#2212:2896" expanded="false" />
+            <element signature="method#onPageSelected#0;class#2212:2896" expanded="false" />
+            <element signature="method#onCreateLoader#0;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="method#onLoadFinished#0;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="method#onLoaderReset#0;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="method#onUpButtonFloorChanged#0;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="method#updateUpButtonPosition#0;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="class#MyPagerAdapter#0;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="method#setPrimaryItem#0;class#MyPagerAdapter#0;class#ArticleDetailActivity#0" expanded="false" />
+            <element signature="method#getItem#0;class#MyPagerAdapter#0;class#ArticleDetailActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15205725">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+          <folding>
+            <element signature="docComment;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#onStart#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#onStop#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#onCreateLoader#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#onLoadFinished#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="class#Adapter#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#getItemId#0;class#Adapter#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#onCreateViewHolder#0;class#Adapter#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#onBindViewHolder#0;class#Adapter#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="class#ViewHolder#0;class#ArticleListActivity#0" expanded="false" />
+            <element signature="method#ViewHolder#0;class#ViewHolder#0;class#ArticleListActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6690519">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/values/colors.xml">
@@ -2148,14 +2097,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/layout/fragment_article_detail.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8603774">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.48679245">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
           <folding>
             <element signature="e#608#1315#0" expanded="false" />
             <element signature="e#856#1076#0" expanded="false" />
             <element signature="e#1094#1287#0" expanded="false" />
-            <element signature="e#3860#3894#0" expanded="true" />
-            <element signature="e#4323#4879#0" expanded="false" />
+            <element signature="e#1329#4235#0" expanded="false" />
+            <element signature="e#1820#3459#0" expanded="false" />
+            <element signature="e#3477#4173#0" expanded="false" />
+            <element signature="e#4319#4875#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2163,34 +2114,37 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/java/com/example/xyzreader/ui/ArticleDetailFragment.java">
+    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/layout/activity_article_list.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62234044">
-          <caret line="183" column="0" selection-start-line="183" selection-start-column="0" selection-end-line="183" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.28867924">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
           <folding>
-            <element signature="docComment;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="docComment;method#ArticleDetailFragment#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#ArticleDetailFragment#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#newInstance#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#onCreate#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#onActivityCreated#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="e#3122#3210#0" expanded="false" />
-            <element signature="e#4897#5287#0" expanded="true" />
-            <element signature="e#5228#5260#0" expanded="true" />
-            <element signature="e#5286#5287#0" expanded="true" />
-            <element signature="method#updateStatusBar#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#progress#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#constrain#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="class#7896:8842" expanded="false" />
-            <element signature="method#onResponse#0;class#7896:8842" expanded="false" />
-            <element signature="e#8425#8496#0" expanded="false" />
-            <element signature="method#onErrorResponse#0;class#7896:8842" expanded="false" />
-            <element signature="method#onCreateLoader#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#onLoadFinished#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#onLoaderReset#0;class#ArticleDetailFragment#0" expanded="false" />
-            <element signature="method#getUpButtonFloor#0;class#ArticleDetailFragment#0" expanded="false" />
+            <element signature="e#292#1100#0" expanded="false" />
+            <element signature="e#553#1047#0" expanded="false" />
+            <element signature="e#1106#2385#0" expanded="false" />
+            <element signature="e#1265#1287#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xyzreader/src/main/res/layout/list_item_article.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="94" selection-start-line="0" selection-start-column="94" selection-end-line="0" selection-end-column="94" />
+          <folding>
+            <element signature="e#0#2082#0" expanded="false" />
+            <element signature="e#426#2043#0" expanded="false" />
+            <element signature="e#633#905#0" expanded="false" />
+            <element signature="e#915#1491#0" expanded="false" />
+            <element signature="e#1501#2022#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
     </entry>
   </component>
