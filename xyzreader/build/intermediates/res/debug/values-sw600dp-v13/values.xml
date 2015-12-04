@@ -17,7 +17,7 @@
     <dimen name="cardview_margin">8dp</dimen>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values-sw600dp/macro_layout.xml -->
     <eat-comment/>
-    <dimen name="detail_body_bottom_margin">96dp</dimen>
+    <dimen name="detail_body_bottom_margin">24dp</dimen>
     <!-- From: file:/C:/Users/Ravi/AndroidStudioProjects/XYZReader/xyzreader/src/main/res/values-sw600dp/dimens.xml -->
     <eat-comment/>
     <dimen name="detail_body_text_size">20sp</dimen>
