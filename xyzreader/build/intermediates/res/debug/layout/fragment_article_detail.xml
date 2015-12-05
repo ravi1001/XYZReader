@@ -23,8 +23,9 @@
                 <ImageView
                     android:id="@+id/photo"
                     android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:scaleType="centerCrop"/>
+                    android:layout_height="@dimen/detail_card_top_margin"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/empty_detail"/>
 
                 <View
                     android:layout_width="match_parent"
@@ -99,7 +100,7 @@
         android:layout_width="wrap_content"
         android:layout_margin="@dimen/fab_margin"
         android:contentDescription="@string/action_share"
-        android:src="@drawable/ic_share_white_48dp"
+        android:src="@drawable/ic_share"
         android:layout_gravity="bottom|end"
         app:backgroundTint="@color/colorAccent"
         app:fabSize="normal"
