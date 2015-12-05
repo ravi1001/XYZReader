@@ -14,5 +14,4 @@
     <dimen name="network_imageview_height">144dp</dimen>
     <dimen name="article_list_padding">16dp</dimen>
 
-
 </resources>
